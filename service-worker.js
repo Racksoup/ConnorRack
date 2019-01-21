@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ConnorRack/precache-manifest.0c9fc69b3b94b8b87bc28ddab9e3c80a.js"
+  "/ConnorRack/precache-manifest.96a6ab1a8b5e4425d9eae1ec0d95a56c.js"
 );
 
 workbox.clientsClaim();
